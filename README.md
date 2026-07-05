@@ -66,7 +66,7 @@ Proyecto desarrollado en equipo durante el Bootcamp de Desarrollo Web Front-End.
 
 Desarrollo de una interfaz responsive mediante HTML y CSS aplicando trabajo colaborativo con Git y GitHub.
 
-📁 **Repositorio:** [Proyecto colaborativo]()
+📁 **Repositorio:** [Proyecto colaborativo](https://github.com/indigo8829/La-cola-feliz.git)
 
 ---
 
