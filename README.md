@@ -76,7 +76,7 @@ Repositorio dedicado a prácticas y ejercicios realizados durante mi proceso de 
 
 Incluye diferentes ejercicios y pequeños proyectos desarrollados con HTML, CSS, JavaScript y React que documentan la evolución progresiva de mis conocimientos y sirven como espacio de experimentación y mejora continua.
 
-📁 **Repositorio:** [Laboratorio Front-End]()
+📁 **Repositorio:** [Laboratorio Front-End](https://github.com/indigo8829/Laboratorio_Front_End.git)
 
 ---
 
