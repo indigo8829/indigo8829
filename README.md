@@ -18,7 +18,7 @@ Mi experiencia en gestión de proyectos, organización de procesos e innovación
 
 # 🎯 Áreas de interés
 
-Actualmente centro mi trabajo y desarrollo profesional en proyectos relacionados con:
+Mi trabajo se orienta principalmente al desarrollo de proyectos relacionados con:
 
 - 💻 Desarrollo Web Front-End
 - 🌐 Digitalización de pequeños negocios
